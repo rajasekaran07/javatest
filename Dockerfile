@@ -1,3 +1,4 @@
 FROM java:7
-COPY javatest.java .
+COPY Javatest.java .
 RUN javac Javatest.java
+CMD ["java", "Javatest"]
