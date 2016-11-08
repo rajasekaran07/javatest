@@ -4,5 +4,6 @@ public class Javatest
 	{
 		System.out.println("Java Hello World!!");
 		System.out.println("Welcome Raja");
+		System.out.println("Good time to learn");
 	}
 }
